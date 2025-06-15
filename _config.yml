@@ -26,13 +26,13 @@ theme_config:
   show_projects: true # show projects as cards, add in _data/home.yml
   show_extra_projects: true # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
-  show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
+  show_misc_list: true # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
     title_projects: 나의 스킬
-    title_extra_projects: 희망 직무
+    title_misc_list: 희망 직무
     title_old_projects: 프로젝트
 
 soopr:
