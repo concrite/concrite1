@@ -19,22 +19,20 @@ project_entries:
     desc: 하급
     
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: cat & soup
+    desc: 프로그래밍 실습 과제로 했던 야옹이와 수프 게임이 있음
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: 나만의 버킷리스트 홈페이지 만들기
+    desc: 내가 살면서 해보고 싶은 것들을 홈페이지에 입력하고 갱신해 나가는 프로그램
+    highlight: soon
+    
+  - title: ai제작
+    desc: 작게나마 나를 도와주는 ai제작
+    highlight: soon
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: ai응용 게임추천 프로그램
+    desc: 필터를 이용해서 게임을 추천받는 프로그램
+    highlight: soon
 
 footer_entries:
   - title: abhinav's homepage
