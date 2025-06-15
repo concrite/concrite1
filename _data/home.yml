@@ -17,7 +17,10 @@ project_entries:
 
   - title: JAVA
     desc: 하급
-    
+    want_entries:
+  - title: 미정
+    desc: 아직 
+
 old_project_entries:
   - title: cat & soup
     desc: 프로그래밍 실습 과제로 했던 야옹이와 수프 게임이 있음
