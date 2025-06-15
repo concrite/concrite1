@@ -17,7 +17,16 @@ project_entries:
 
   - title: JAVA
     desc: 하급
+project1_entries:
+  - title: C
+    desc: 중급
 
+  - title: PYTHON
+    desc: 하급
+
+  - title: JAVA
+    desc: 하급
+    
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
