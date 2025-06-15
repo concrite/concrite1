@@ -32,7 +32,7 @@ theme_config:
   # options for "home" page
   home:
     title_projects: 나의 스킬
-    title_want: 희망 직무
+    title_wants: 희망 직무
     title_old_projects: 프로젝트
 
 soopr:
