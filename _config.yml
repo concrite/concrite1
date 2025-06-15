@@ -32,8 +32,8 @@ theme_config:
   # options for "home" page
   home:
     title_projects: 나의 스킬
-    title_misc_list: 프로젝트
-    title_blog: Blog
+    
+    title_blog: 프로젝트
     title_old_projects: 희망직무
 
 soopr:
