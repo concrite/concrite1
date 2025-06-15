@@ -17,7 +17,8 @@ project_entries:
 
   - title: JAVA
     desc: 하급
-    want_entries:
+    
+want_entries:
   - title: 미정
     desc: 아직 
 
